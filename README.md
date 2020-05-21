@@ -40,5 +40,4 @@ Package: text2SpeechAPI<br/>
 
 ## Copyright
 
-[![GitHub license](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE)](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE)
 [MIT](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE) © 2020 Thomas Siozos, Georgia Kalitsi
