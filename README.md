@@ -9,10 +9,16 @@ Main class: StartMenuView.java
 
 ## UML
 
-<b style:text-aligh:center>Package Diagram</b>
+<div align="center"><b>Package Diagram</b></div>
 ![Package Diagram](/uml/package_diagram.png)
+<br/>
+<b>Class Diagram</b>
+![Class Diagram](/uml/class_diagram.png)
 
-![Alt-Text]
+## Design Patterns used
+
+Package: commands<br/>
+
 ## Copyright
 
 [MIT](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE) © 2020 Thomas Siozos, Georgia Kalitsi
