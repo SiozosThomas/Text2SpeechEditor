@@ -40,4 +40,5 @@ Package: text2SpeechAPI<br/>
 
 ## Copyright
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [MIT](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE) © 2020 Thomas Siozos, Georgia Kalitsi
