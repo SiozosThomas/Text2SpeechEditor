@@ -11,7 +11,7 @@ Main class: StartMenuView.java
 
 <div align="center"><b>Package Diagram</b></div><br/>
 ![Package Diagram](/uml/package_diagram.png)
-<br/>
+
 <b>Class Diagram</b>
 ![Class Diagram](/uml/class_diagram.png)
 
