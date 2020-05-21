@@ -9,6 +9,7 @@ Main class: StartMenuView.java
 
 ## UML
 
+<b style:text-aligh:center>Package Diagram</b>
 ![Package Diagram](/uml/package_diagram.png)
 
 ![Alt-Text]
