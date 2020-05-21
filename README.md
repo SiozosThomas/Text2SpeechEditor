@@ -8,8 +8,10 @@
 Main class: StartMenuView.java
 
 ## UML
-![Alt-Text](/uml/package_diagram.png)
 
+![Package Diagram](/uml/package_diagram.png)
+
+![Alt-Text]
 ## Copyright
 
 [MIT](https://github.com/SiozosThomas/Text2SpeechEditor/blob/master/LICENSE) © 2020 Thomas Siozos, Georgia Kalitsi
