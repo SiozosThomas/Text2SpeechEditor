@@ -13,12 +13,30 @@ Main class: StartMenuView.java
 
 ![Package Diagram](/uml/package_diagram.png)
 
-<b>Class Diagram</b>
+<div align="center"><b>Class Diagram</b></div>
+
 ![Class Diagram](/uml/class_diagram.png)
 
 ## Design Patterns used
 
 Package: commands<br/>
+<b>Command Pattern</b>
+<br/>
+Package: encodingStategies<br/>
+<b>Strategy Pattern</b>
+<br/>
+Package: text2SpeechAPI<br/>
+<b>Adapter Pattern</b>
+
+## Run the tests
+
+Χρησιμοποιόντας το framework [JUnit](https://junit.org/junit5/), ελέγξαμε τις
+μεθόδους από ορισμένες κλάσεις. Τα tests βρίσκονται στο package testing.
+
+## FreeTTS
+
+Για να αναπαραχθεί το κείμενο χρησιμοποιήθηκε το [FreeTTS](https://freetts.sourceforge.io/)
+ API.
 
 ## Copyright
 
