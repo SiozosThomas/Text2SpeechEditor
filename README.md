@@ -28,7 +28,7 @@ Package: encodingStategies<br/>
 Package: text2SpeechAPI<br/>
 <b>Adapter Pattern</b>
 
-## Run the tests
+## Running the tests
 
 Χρησιμοποιόντας το framework [JUnit](https://junit.org/junit5/), ελέγξαμε τις
 μεθόδους από ορισμένες κλάσεις. Τα tests βρίσκονται στο package testing.
